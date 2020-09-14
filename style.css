@@ -1,0 +1,19 @@
+body{
+		background: #FC5C7D;  
+		background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D); 
+		background: linear-gradient(to right, #6A82FB, #FC5C7D); 
+	}
+
+	#start_btn{
+		width: 150px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	#start_btn button{
+		background-color: white;
+	}
+
+	#user_input{
+		font-size: 80px;
+	}
